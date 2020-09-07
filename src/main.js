@@ -30,7 +30,7 @@ window.addEventListener('load', () => {
       // 先確認使用者未登入
       if(!isLoggedIn) {
         liff.login({
-          redirectUri: redirectUri // 使用者登入後要去到哪個頁面
+          redirectUri: 'https://letswritetw.github.io/letswrite-liff-init/'
         });
       }
     });

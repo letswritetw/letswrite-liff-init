@@ -2,4 +2,4 @@
 
 Demo：[demo](https://letswritetw.page.link/liff-demo)
 
-筆記文：[Let's Write](https://letswrite.tw/liff-init/)
+筆記文：[Let's Write](https://www.letswrite.tw/liff-init/)
